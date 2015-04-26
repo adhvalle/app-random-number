@@ -1,13 +1,12 @@
-# Nodejs App that serves an Angular SPA
+# Proyecto que utiliza tecnología Angularjs y Nodejs 
 
-# Technologies:
+# Tecnologías:
 
  * Front-end: Angularjs
  * Back-end: Nodejs
 
-# Description:
+# Descripción:
 
- * This project is an Angular app that contains the apps developed for the previous exarcises in a SPA
- * It is a Container of gnas
- * It includes Karma and Jasmine and some Unit and E2E tests
+ * Esta es una app desarrollada en Angular
+ * Incluye Karma y Jasmine, también tests Unit y E2E
 
