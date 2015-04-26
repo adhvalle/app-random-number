@@ -1,5 +1,4 @@
 # Nodejs App that serves an Angular SPA
-==================================================================================
 
 # Technologies:
 
